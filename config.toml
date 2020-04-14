@@ -41,4 +41,5 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   enabled = true # Optional, set false to disable module
   decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
 [params.hackcss]
+  mode = "standard"
   palette = "light"
