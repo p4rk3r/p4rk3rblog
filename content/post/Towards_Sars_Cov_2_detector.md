@@ -20,7 +20,7 @@ Let's have a look at the options available and state of the art. Please keep rea
 
 # System envisioning
 
-![System High Level Overview](/static/images/Detektor_System_High_Level_Overview_(Watermarked).jpg)
+![System High Level Overview](/static/images/logo-dark.png)
 
 
 # Particle counter
