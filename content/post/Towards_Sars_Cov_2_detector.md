@@ -1,6 +1,6 @@
 +++
 Description = ""
-date = "2020-04-13T21:00:30+08:00"
+date = "2020-04-20T22:50:30+08:00"
 title = "Towards a SARS-COV-2-Virion-Detektor"
 menu = "main"
 toc = true
